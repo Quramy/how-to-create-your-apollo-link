@@ -1,11 +1,14 @@
 {
+  "private": true,
   "name": "how-to-create-your-apollo-link",
-  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "compile": "tsc",
     "format": "prettier --write .",
-    "test": "jest --verbose"
+    "lint": "prettier --check .",
+    "test": "jest --verbose",
+    "test:ci": "jest --verbose --coverage"
   },
   "keywords": [],
   "author": "",
