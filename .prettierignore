@@ -1,0 +1,8 @@
+lib/
+node_modules/
+.vscode/
+.husky/
+.gitignore
+.npmrc
+package-lock.json
+*.tsbuildinfo
