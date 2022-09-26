@@ -10,7 +10,10 @@
     "test": "jest --verbose",
     "test:ci": "jest --verbose --coverage"
   },
-  "keywords": ["GraphQL", "Apollo Client"],
+  "keywords": [
+    "GraphQL",
+    "Apollo Client"
+  ],
   "author": "Quramy",
   "license": "MIT",
   "devDependencies": {
